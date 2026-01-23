@@ -7,10 +7,10 @@ This project demonstrates the application of SQL techniques to clean and prepare
 
 In this project, I focused on cleaning a raw dataset by addressing common data quality issues such as:
 
-- 1. Remove Duplicates
-- 2. Standarize the data
-- 3. Null values or blank values
-- 4. Remove the columns or rows
+- Remove Duplicates
+- Standarize the data
+- Null values or blank values
+- Remove the columns or rows
 
 The goal was to prepare the dataset for further analysis, ensuring its integrity and reliability.
 
