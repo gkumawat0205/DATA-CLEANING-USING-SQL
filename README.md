@@ -22,8 +22,8 @@ The goal was to prepare the dataset for further analysis, ensuring its integrity
 
 ## 📁 Repository Structure
 
-- `Dataset/`: Contains the raw and cleaned datasets in CSV format.
-- `Data Cleaning Using SQL`: SQL script file with all the queries used for data cleaning tasks.
+- `layoffs.csv`: Contains the raw and cleaned datasets in CSV format.
+- `Data Cleaning Using SQL.sql`: SQL script file with all the queries used for data cleaning tasks.
 
 ## 🔍 Key SQL Techniques Used
 
